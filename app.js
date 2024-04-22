@@ -2,4 +2,4 @@ let tg = window.Telegram.WebApp;
 
 tg.expand();
 
-tg.theme.secondary.bg.color = "#000000"
+tg.secondary_bg_color = "#000000"
